@@ -8,9 +8,9 @@ que adicionar melhorias a respeito disso.
 embora possa ser um projeto simples ainda tem alguns requisitos, então baixando o 
 **gerenciador.pyz** aqui no repositorio, você pode fazer os seguintes comandos:
 
-ˋˋˋbash
+```bash
 chmod +x gerenciador.pyz
-ˋˋˋ
+```
 
 com isso você ja poderá ver em ação, mas se você colocar ele no seu PATH, vai conseguir
 executar de qualquer lugar do seu armazenamento
