@@ -1,2 +1,13 @@
-# Gereciador-senhas.py
-novo gerenciador e guardar senhas em arquivos
+# SOBRE
+Olá pessoal, aqui está um pequeno projeto que criei, um pequeno gereciador de senhas
+mas ele serve pra... digamos que você quer guardar suas senhas, então você ja coloca
+tudo nele, fazendo cadastro e login com uma senha criada na hora, embora eu anda tenha
+que adicionar melhorias a respeito disso.
+
+# REQUISITOS
+embora possa ser um projeto simples ainda tem alguns requisitos, então baixando o 
+**gerenciador.pyz** aqui no repositorio, você pode fazer os seguintes comandos:
+ˋˋˋbash
+chmod +x gerenciador.pyz
+ˋ´ˋ
+com isso você ja poderá ver em ação
