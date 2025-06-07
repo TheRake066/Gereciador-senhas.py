@@ -9,9 +9,7 @@ embora possa ser um projeto simples ainda tem alguns requisitos, então baixando
 **gerenciador.pyz** aqui no repositorio, você pode fazer os seguintes comandos:
 
 ˋˋˋbash
-
 chmod +x gerenciador.pyz
-
 ˋˋˋ
 
 com isso você ja poderá ver em ação, mas se você colocar ele no seu PATH, vai conseguir
