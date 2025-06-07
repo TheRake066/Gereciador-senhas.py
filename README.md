@@ -10,6 +10,7 @@ embora possa ser um projeto simples ainda tem alguns requisitos, então baixando
 
 ```bash
 chmod +x gerenciador.pyz
+./gerenciador.pyz
 ```
 
 com isso você ja poderá ver em ação, mas se você colocar ele no seu PATH, vai conseguir
