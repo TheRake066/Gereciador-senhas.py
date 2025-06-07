@@ -7,8 +7,10 @@ que adicionar melhorias a respeito disso.
 # REQUISITOS
 embora possa ser um projeto simples ainda tem alguns requisitos, então baixando o 
 **gerenciador.pyz** aqui no repositorio, você pode fazer os seguintes comandos:
+
 ˋˋˋbash
 chmod +x gerenciador.pyz
-ˋ´ˋ
+
+ˋˋˋ
 com isso você ja poderá ver em ação, mas se você colocar ele no seu PATH, vai conseguir
 executar de qualquer lugar do seu armazenamento
