@@ -10,4 +10,5 @@ embora possa ser um projeto simples ainda tem alguns requisitos, então baixando
 ˋˋˋbash
 chmod +x gerenciador.pyz
 ˋ´ˋ
-com isso você ja poderá ver em ação
+com isso você ja poderá ver em ação, mas se você colocar ele no seu PATH, vai conseguir
+executar de qualquer lugar do seu armazenamento
