@@ -20,5 +20,4 @@ embora possa ser um projeto simples ainda tem alguns requisitos, você pode faze
 pip install colorama
 ```
 
-com isso você ja poderá ver em ação, mas se você colocar ele no seu PATH, vai conseguir
-executar de qualquer lugar do seu armazenamento 🙏👨‍💻
+com isso você ja poderá ver em ação 🙏👨‍💻
