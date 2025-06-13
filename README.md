@@ -4,13 +4,20 @@ mas ele serve pra... digamos que você quer guardar suas senhas, então você ja
 tudo nele, fazendo cadastro e login com uma senha criada na hora, embora eu anda tenha
 que adicionar melhorias a respeito disso.
 
+# 🔐 Gerenciador de Senhas CLI
+
+Sistema feito em Python com:
+- Cadastro/Login com senha mestre
+- Criptografia SHA256
+- Tokens únicos por usuário
+- Armazenamento com `shelve`
+- Interface animada via terminal
+
 # REQUISITOS ⚠️
-embora possa ser um projeto simples ainda tem alguns requisitos, então baixando o 
-**gerenciador.pyz** aqui no repositorio, você pode fazer os seguintes comandos:
+embora possa ser um projeto simples ainda tem alguns requisitos, você pode fazer os seguintes comandos:
 
 ```bash
-chmod +x gerenciador.pyz
-./gerenciador.pyz
+pip install colorama
 ```
 
 com isso você ja poderá ver em ação, mas se você colocar ele no seu PATH, vai conseguir
