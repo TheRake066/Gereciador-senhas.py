@@ -121,9 +121,7 @@ while True:
         print('[0] fechar')
 
         sistema = input('~ ')
-        print(f'Debug: depois do input = {repr(sistema)}')
         validação = int(sistema)
-        print('depois do int()')
 
         if validação == 9:
             loading()
