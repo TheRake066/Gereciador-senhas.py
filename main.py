@@ -126,9 +126,11 @@ while True:
         if validação == 9:
             loading()
             cadastro()
+            break
         elif validação == 6:
             loading()
             login()
+            break
         elif validação == 0:
             break
         else:
